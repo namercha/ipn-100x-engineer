@@ -42,19 +42,19 @@ describe('Distance Utilities', () => {
   });
 
   describe('mockGeocode', () => {
-    it('returns coordinates for San Francisco', () => {
-      const result = mockGeocode('San Francisco');
+    it('returns coordinates for Houston', () => {
+      const result = mockGeocode('Houston');
       expect(result).toEqual({
-        latitude: 37.7749,
-        longitude: -122.4194,
+        latitude: 29.7604,
+        longitude: -95.3698,
       });
     });
 
     it('returns default coordinates for unknown locations', () => {
       const result = mockGeocode('Unknown City XYZ');
       expect(result).toEqual({
-        latitude: 37.7749,
-        longitude: -122.4194,
+        latitude: 29.7604,
+        longitude: -95.3698,
       });
     });
 

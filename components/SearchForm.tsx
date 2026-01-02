@@ -33,7 +33,7 @@ export default function SearchForm({ onSearch, isLoading }: SearchFormProps) {
             value={location}
             onChange={(e) => setLocation(e.target.value)}
             placeholder="Enter address, city, or zip code..."
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent outline-none transition-all"
+            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent outline-none transition-all text-black"
             disabled={isLoading}
           />
         </div>
@@ -48,7 +48,7 @@ export default function SearchForm({ onSearch, isLoading }: SearchFormProps) {
         </div>
       </div>
       <p className="mt-3 text-sm text-gray-500">
-        💡 Tip: Try searching for "San Francisco", "Downtown", or a zip code like "94102"
+        💡 Tip: Try searching for &quot;Houston&quot;, &quot;Hillcroft&quot;, or a zip code like &quot;77036&quot;
       </p>
     </form>
   );
