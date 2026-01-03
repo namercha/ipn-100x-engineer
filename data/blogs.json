@@ -1,0 +1,191 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "restaurantId": "1",
+      "title": "Aga's Restaurant: A Taste of Authentic Andhra Cuisine in Houston",
+      "slug": "agas-restaurant-houston",
+      "excerpt": "Discover the bold flavors of Andhra Pradesh at Aga's Restaurant in Houston. This family-style gem serves up authentic Telugu cuisine that transports you straight to southern India with every bite.",
+      "content": "Houston's diverse culinary landscape has no shortage of Indian restaurants, but few capture the authentic essence of Andhra Pradesh quite like Aga's Restaurant. Nestled on Hillcroft Street in the heart of Houston's Mahatma Gandhi District, this Telugu culinary destination has earned a devoted following among those seeking genuine South Indian flavors.\n\nThe moment you step inside Aga's, you're greeted by the intoxicating aromas of slow-cooked curries and freshly prepared biryani. The restaurant embraces a family-style dining approach, encouraging guests to share dishes and experience the communal spirit that defines Telugu food culture. It's the kind of place where strangers at neighboring tables might strike up conversations about their favorite dishes.\n\nThe biryani at Aga's deserves special mention. Prepared in the traditional Hyderabadi style with fragrant basmati rice layered with perfectly spiced meat, each serving arrives at your table still steaming, the rice grains glistening with ghee and saffron. Whether you opt for chicken or mutton, the biryani alone is worth the visit.\n\nFor those who appreciate the bold, spicy flavors that Andhra cuisine is famous for, the Chicken Curry and Mutton Curry deliver in abundance. These aren't toned-down versions meant to appeal to milder palates. Instead, they showcase the authentic heat and complex spice profiles that have made Andhra Pradesh synonymous with some of India's most flavorful cooking.\n\nWith a 4.3 rating and prices that fall comfortably in the moderate range, Aga's Restaurant offers exceptional value for the quality and authenticity on display.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Telugu", "Houston", "Andhra", "Biryani"]
+    },
+    {
+      "id": "2",
+      "restaurantId": "2",
+      "title": "Savoy Restaurant: A Taste of Authentic Tamil Cuisine in Houston",
+      "slug": "savoy-restaurant-houston",
+      "excerpt": "Nestled in the heart of Houston, Savoy Restaurant brings the rich culinary traditions of Tamil Nadu to Texas. With its crispy dosas, fluffy idlis, and aromatic sambars, this South Indian gem offers an authentic vegetarian-friendly dining experience.",
+      "content": "Houston's diverse food scene has long been celebrated for its international flavors, and Savoy Restaurant on Bissonnet Street stands as a shining example of this culinary diversity. This unassuming eatery has become a beloved destination for those seeking authentic Tamil and South Indian cuisine in the heart of Texas.\n\nThe moment you step inside Savoy, the aroma of freshly ground spices and sizzling ghee welcomes you. The menu reads like a love letter to Tamil Nadu's rich culinary heritage, featuring time-honored recipes that have been perfected over generations.\n\nThe dosas at Savoy deserve special mention. These paper-thin, crispy crepes arrive at your table golden brown and impossibly large, folded around spiced potato masala or served plain alongside an array of chutneys and the restaurant's exceptional sambar.\n\nEqually impressive are the idlis, those pillowy steamed rice cakes that exemplify the comfort food of South India. Served with sambar and coconut chutney, they make for a perfect light meal.\n\nFor vegetarian diners, Savoy is nothing short of a paradise. The menu offers an extensive selection of meat-free options that prove vegetarian cuisine can be bold, flavorful, and deeply satisfying.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Tamil", "South Indian", "Vegetarian"]
+    },
+    {
+      "id": "3",
+      "restaurantId": "3",
+      "title": "Pondicheri: Where Modern South Indian Cuisine Meets Farm-Fresh Texas Ingredients",
+      "slug": "pondicheri-kirby-houston",
+      "excerpt": "Discover Pondicheri on Kirby Drive, where Chef Anita Jaisinghani reimagines South Indian classics with a farm-to-table philosophy. From the legendary Cauliflower 65 to inventive Dosa Bowls, this Houston gem delivers bold flavors in a contemporary setting.",
+      "content": "Tucked into the heart of Houston's Upper Kirby neighborhood at 2800 Kirby Dr, Pondicheri has quietly become one of the city's most beloved destinations for modern Indian cuisine. This is not your typical Indian restaurant. It is a thoughtful reimagining of South Indian traditions through the lens of Texas farm-fresh ingredients and contemporary culinary techniques.\n\nThe moment you step inside, you sense something different about this establishment. Gone are the dim lighting and heavy decor. This modern aesthetic extends to the menu, where familiar flavors are presented in unexpected ways.\n\nThe Cauliflower 65 has achieved near-legendary status among Houston diners. This dish takes the classic South Indian preparation and transforms humble cauliflower into something extraordinary. The florets arrive perfectly crispy on the outside, tender within, and coated in a complex blend of spices.\n\nEqually impressive are the Dosa Bowls, which represent Pondicheri's innovative approach to tradition. Rather than serving the classic fermented crepe in its traditional form, the kitchen deconstructs and reinvents it as a bowl format.\n\nWhat truly sets Pondicheri apart is its unwavering commitment to farm-to-table sourcing. At a moderate price point, Pondicheri delivers exceptional value with its 4.4 rating.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Modern", "Farm-to-Table", "Houston"]
+    },
+    {
+      "id": "4",
+      "restaurantId": "4",
+      "title": "Himalaya Restaurant: Houston's Premier Destination for Authentic Pakistani and South Indian Halal Cuisine",
+      "slug": "himalaya-restaurant-hillcroft-houston",
+      "excerpt": "Nestled in the heart of Houston's Hillcroft corridor, Himalaya Restaurant has earned its reputation as a culinary landmark for authentic Pakistani and South Indian halal cuisine. With its legendary biryani, sizzling karahi dishes, and perfectly grilled kebabs, this budget-friendly gem delivers exceptional flavors.",
+      "content": "Houston's diverse culinary landscape is home to countless hidden gems, but few have achieved the legendary status of Himalaya Restaurant on Hillcroft Street. This unassuming establishment has become a pilgrimage site for lovers of authentic Pakistani and South Indian cuisine.\n\nFrom the moment you step inside, the intoxicating aromas of slow-cooked spices and freshly grilled meats transport you to the bustling streets of Karachi or Lahore. The restaurant's commitment to halal preparation and traditional cooking methods has made it a trusted destination.\n\nThe biryani at Himalaya is nothing short of extraordinary. Each grain of basmati rice is infused with saffron, whole spices, and the essence of tender, marinated meat that falls apart at the touch of a fork.\n\nEqually impressive are the karahi dishes, prepared in the traditional wok-style cooking vessel. The chicken karahi arrives at your table still sizzling, with chunks of succulent meat swimming in a rich, tomato-based gravy.\n\nThe kebab selection showcases the restaurant's mastery of the grill. What makes Himalaya even more remarkable is its accessibility with budget-friendly prices and a 4.1 rating.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Pakistani", "Halal", "Biryani", "Houston", "Karahi", "Kebabs"]
+    },
+    {
+      "id": "5",
+      "restaurantId": "5",
+      "title": "Shan Restaurant: Where Authentic Pakistani Flavors Meet Houston's Hillcroft",
+      "slug": "shan-restaurant-houston",
+      "excerpt": "Nestled in Houston's vibrant Hillcroft corridor, Shan Restaurant delivers an unforgettable journey through the rich culinary traditions of Pakistan and Punjab. From sizzling Chicken Karahi to aromatic Biryani, every dish tells a story of authentic flavors.",
+      "content": "Houston's Hillcroft Street has long been celebrated as a destination for authentic South Asian cuisine, and Shan Restaurant stands as a shining example of why food lovers flock to this area. Located at 7300 Hillcroft St, this beloved establishment has earned its reputation for genuine Pakistani and Punjabi flavors.\n\nThe moment you step inside Shan Restaurant, the aromatic symphony of spices welcomes you. The kitchen takes pride in preparing dishes that honor traditional recipes passed down through generations.\n\nThe Chicken Karahi is undoubtedly the star of the menu. Served sizzling in a traditional wok-shaped vessel, this dish features tender chicken pieces cooked with tomatoes, green chilies, and a masterful blend of spices.\n\nEqually impressive is their Biryani, a fragrant rice dish that showcases the complexity of Pakistani cooking. Each grain of basmati rice is perfectly separated and infused with saffron.\n\nWith a solid 4.0 rating and prices that fall in the moderate range, Shan Restaurant offers excellent value for the quality and authenticity it delivers.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Pakistani", "Punjabi", "Karahi", "Houston"]
+    },
+    {
+      "id": "6",
+      "restaurantId": "6",
+      "title": "Indika Modern Indian: Where Tradition Meets Innovation in Houston",
+      "slug": "indika-modern-indian-houston",
+      "excerpt": "Discover Indika Modern Indian, a refined culinary destination on Westheimer Road that reimagines classic Indian cuisine through a contemporary lens. With impeccable tandoori preparations and artfully crafted curry dishes, this upscale gem delivers an unforgettable dining experience.",
+      "content": "Houston's diverse culinary landscape has long been celebrated for its international flavors, but few restaurants manage to elevate a cuisine while honoring its roots quite like Indika Modern Indian. Nestled at 516 Westheimer Rd in the heart of Montrose, this sophisticated establishment has carved out a reputation as one of the city's premier destinations.\n\nFrom the moment you step through the doors, Indika sets itself apart with an atmosphere that balances warmth with refined elegance. The modern decor speaks to the restaurant's philosophy: a deep respect for tradition paired with an uncompromising commitment to innovation.\n\nThe star of Indika's menu is undoubtedly the Tandoori Lamb, a dish that exemplifies the kitchen's mastery over the ancient clay oven cooking technique. The lamb arrives perfectly charred on the exterior while remaining impossibly tender within.\n\nEqually impressive are the curry dishes, which showcase the breadth of India's regional cooking traditions through a modern filter.\n\nWith a rating of 4.5 stars and a price point that reflects its upscale positioning, Indika is best reserved for occasions when dining becomes an event.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Upscale", "Fine Dining", "Houston"]
+    },
+    {
+      "id": "7",
+      "restaurantId": "7",
+      "title": "Pondicheri Heights: Where Traditional Indian Flavors Meet Modern Wellness",
+      "slug": "pondicheri-heights-houston",
+      "excerpt": "Discover how Pondicheri Heights is redefining Indian cuisine in Houston with their innovative dosa bowls and health-conscious curry dishes. This Westheimer gem proves that authentic flavors and nutritious eating can coexist beautifully.",
+      "content": "In the heart of Houston's vibrant Montrose neighborhood, Pondicheri Heights stands as a testament to the evolution of Indian cuisine in America. Located at 1834 Westheimer Rd, this culinary destination has carved out a unique niche by seamlessly blending traditional Indian recipes with a modern health-conscious approach.\n\nThe moment you step inside, you sense something different about this establishment. Gone are the heavy, oil-laden dishes. Instead, Pondicheri Heights embraces the inherent healthfulness of authentic Indian cooking.\n\nThe star of the menu has to be their innovative Dosa Bowls. These deconstructed interpretations of the classic South Indian crepe transform a beloved street food into a nutritious, Instagram-worthy meal.\n\nTheir curry dishes deserve equal recognition. Each one tells a story of regional Indian cooking traditions, allowing the natural aromatics of cumin, coriander, turmeric, and cardamom to shine.\n\nWith a solid 4.3 rating and moderate pricing, Pondicheri Heights has become a neighborhood favorite for health-conscious diners who refuse to sacrifice flavor.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Healthy", "Dosa", "Houston"]
+    },
+    {
+      "id": "8",
+      "restaurantId": "8",
+      "title": "Madras Pavilion: Houston's Premier Destination for Authentic South Indian Vegetarian Cuisine",
+      "slug": "madras-pavilion-houston",
+      "excerpt": "Nestled in the heart of Houston's Kirby District, Madras Pavilion offers an authentic journey through South Indian vegetarian cuisine. With crispy dosas, fluffy uttapams, and aromatic sambar, this beloved establishment proves that plant-based dining can be extraordinary.",
+      "content": "When it comes to authentic South Indian vegetarian cuisine in Houston, Madras Pavilion stands as a beacon for food lovers seeking genuine flavors without compromise. Located at 3910 Kirby Dr, this pure vegetarian restaurant has earned its stellar 4.2-star rating through years of consistent quality.\n\nThe moment you step inside Madras Pavilion, the intoxicating aroma of freshly prepared dosas and simmering sambar transports you straight to the bustling streets of Chennai.\n\nThe dosa at Madras Pavilion is nothing short of legendary. These paper-thin, golden-brown crepes arrive at your table with an audible crackle, their edges perfectly crisp while the center remains delightfully soft.\n\nEqually impressive are the uttapams, often described as South Indian pancakes. These thicker, more substantial creations come topped with onions, tomatoes, and chilies.\n\nNo South Indian meal is complete without sambar, and Madras Pavilion's version is exceptional. With prices firmly in the budget-friendly range, enjoying an authentic South Indian feast doesn't require a special occasion.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Vegetarian", "South Indian", "Houston"]
+    },
+    {
+      "id": "9",
+      "restaurantId": "9",
+      "title": "Udipi Cafe: Authentic South Indian Vegetarian Cuisine in the Heart of Houston",
+      "slug": "udipi-cafe-houston",
+      "excerpt": "Discover the timeless flavors of traditional Udupi vegetarian cuisine at Udipi Cafe on Richmond Avenue. This beloved Houston gem serves up crispy dosas, fluffy idlis, and perfectly spiced vadas that transport your taste buds straight to South India.",
+      "content": "Nestled on Richmond Avenue in Houston's vibrant Galleria area, Udipi Cafe stands as a testament to the rich culinary traditions of the Udupi region of Karnataka, India. This unassuming eatery has been winning hearts and satisfying cravings with its dedication to authentic South Indian vegetarian fare.\n\nThe star of the menu is undoubtedly the Masala Dosa, a crispy golden crepe made from fermented rice and lentil batter, wrapped around a fragrant filling of spiced potatoes. Each dosa arrives at your table with a satisfying crackle.\n\nFor those seeking comfort in simplicity, the Idli and Vada platter offers pillowy soft steamed rice cakes paired with crispy, golden lentil fritters.\n\nWhat sets Udipi Cafe apart is its unwavering commitment to traditional Udupi vegetarian principles. Every dish is prepared without onion or garlic, staying true to the Brahmin culinary traditions of the Udupi temple town.\n\nWith a 4.1 rating and prices that won't break the bank, Udipi Cafe proves that exceptional dining doesn't require a hefty price tag.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Udupi", "Vegetarian", "Houston"]
+    },
+    {
+      "id": "10",
+      "restaurantId": "10",
+      "title": "Pondicheri Downtown: Where Indian Flavors Meet Houston Hustle",
+      "slug": "pondicheri-downtown-houston",
+      "excerpt": "Craving authentic Indian cuisine but short on time? Pondicheri Downtown brings the bold flavors of India to the heart of Houston's business district, serving up curry bowls and crispy dosas that prove fast-casual dining can be both quick and extraordinary.",
+      "content": "In the bustling heart of downtown Houston, where skyscrapers cast long shadows over Fannin Street, Pondicheri Downtown has carved out a delicious niche for itself. This fast-casual Indian eatery at 1201 Fannin St proves that you do not need to sacrifice quality for convenience.\n\nThe menu at Pondicheri Downtown is a celebration of Indian culinary traditions, reimagined for the modern diner on the go. Their curry bowls are the stuff of lunchtime legend, featuring aromatic spice blends that transport you straight to the streets of Mumbai.\n\nWhat sets Pondicheri apart from typical fast-casual fare is their unwavering commitment to authenticity. The spices are bold, the flavors are layered, and the execution is consistently impressive.\n\nWith a solid 4.2 rating and prices that fall comfortably in the moderate range, this is Indian cuisine that delivers exceptional value without cutting corners.\n\nThe downtown location makes Pondicheri an ideal destination for a quick lunch meeting, a satisfying solo meal between appointments, or a flavorful dinner before catching an event.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Downtown", "Fast-Casual", "Houston"]
+    },
+    {
+      "id": "11",
+      "restaurantId": "11",
+      "title": "Where Texas BBQ Meets Indian Spice: Discovering Curry Boys BBQ in Houston",
+      "slug": "curry-boys-bbq-houston",
+      "excerpt": "In the heart of Houston's vibrant Chinatown district, Curry Boys BBQ is redefining what it means to fuse cuisines. This innovative spot brings together the smoky traditions of Texas barbecue with the bold, aromatic flavors of Indian and Pakistani cooking.",
+      "content": "Houston has long been celebrated as one of America's most diverse culinary cities, but few restaurants embody this spirit of fusion quite like Curry Boys BBQ. Located at 9889 Bellaire Blvd in the bustling Chinatown area, this unique establishment has carved out a niche that feels both revolutionary and completely natural.\n\nThe concept is brilliantly simple: take the time-honored techniques of Texas barbecue and apply them to the rich spice traditions of the Indian subcontinent. The result is a menu that speaks to Houston's multicultural identity.\n\nThe Tandoori Chicken here is a revelation. Marinated in a complex blend of yogurt and spices, then cooked to perfection, it arrives with that characteristic char that tandoor cooking provides.\n\nEqually impressive is the Biryani, that beloved rice dish that has inspired passionate debates across the subcontinent. Curry Boys BBQ's version honors tradition while adding subtle smoky notes.\n\nAt a moderate price point, Curry Boys BBQ offers tremendous value for the quality and creativity on display.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "BBQ", "Fusion", "Houston"]
+    },
+    {
+      "id": "12",
+      "restaurantId": "12",
+      "title": "Himalaya Restaurant Westheimer: Houston's Beloved Halal Pakistani Gem Expands Its Reach",
+      "slug": "himalaya-westheimer-houston",
+      "excerpt": "Himalaya Restaurant's second location on Westheimer brings the same exceptional halal Pakistani and South Indian cuisine that made the original a Houston institution. With legendary biryanis and sizzling karahis at wallet-friendly prices, this expansion makes authentic subcontinental flavors more accessible.",
+      "content": "When a restaurant earns the devotion that Himalaya has cultivated in Houston, opening a second location is both a celebration and a responsibility. The Westheimer outpost at 3334 Westheimer Rd delivers on that promise, bringing the same commitment to authentic halal Pakistani and South Indian cooking.\n\nThe moment you step inside, the aromatic symphony of spices tells you everything you need to know. This is a kitchen that takes its craft seriously, where recipes have been refined over generations.\n\nThe biryani at Himalaya deserves its legendary status. Each grain of basmati rice is perfectly separate yet infused with the complex layering of spices that defines truly great biryani.\n\nEqually impressive are the karahis, those sizzling iron wok preparations that arrive at your table still bubbling with intensity. The goat karahi is particularly memorable.\n\nWhat makes Himalaya even more remarkable is its price point. In an era of ever-increasing restaurant prices, finding food this authentic at budget-friendly prices feels almost miraculous.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Pakistani", "Halal", "Karahi", "Houston"]
+    },
+    {
+      "id": "13",
+      "restaurantId": "13",
+      "title": "Shiv Sagar: A Vegetarian Paradise Bringing Authentic Gujarati and South Indian Flavors to Houston",
+      "slug": "shiv-sagar-houston",
+      "excerpt": "Discover Shiv Sagar, a hidden gem on Bellaire Boulevard serving authentic Gujarati and South Indian vegetarian cuisine. From elaborate thalis to crispy dosas, this budget-friendly restaurant offers a true taste of India's vibrant vegetarian traditions.",
+      "content": "Houston's Bellaire Boulevard is renowned for its incredible diversity of Asian cuisines, and nestled among the bustling strip malls at 9889 Bellaire Blvd, you'll find Shiv Sagar—a vegetarian haven that transports diners straight to the streets of Mumbai and Ahmedabad.\n\nFor those unfamiliar with Gujarati cuisine, Shiv Sagar serves as the perfect introduction. The restaurant specializes in the beloved Gujarati Vegetarian Thali, a traditional meal presentation that features an array of dishes served on a single platter.\n\nThe South Indian offerings are equally impressive. The dosas here deserve special mention—those impossibly thin, golden-brown crepes arrive with a satisfying crispness.\n\nNo visit to Shiv Sagar would be complete without exploring their chaat selection. These beloved Indian street snacks are executed with precision and care.\n\nWith a solid 4.0 rating and single dollar sign pricing, Shiv Sagar proves that exceptional food need not come with a premium price tag.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Gujarati", "Vegetarian", "Thali"]
+    },
+    {
+      "id": "14",
+      "restaurantId": "14",
+      "title": "Sweet Indulgence at Bombay Sweets: Houston's Hidden Gem for Authentic Indian Treats",
+      "slug": "bombay-sweets-houston",
+      "excerpt": "Discover the vibrant flavors of India at Bombay Sweets on Hillcroft Street, where traditional North and South Indian sweets and savory snacks come together under one roof. This budget-friendly Houston gem is a must-visit for anyone craving authentic Indian street food.",
+      "content": "Tucked away on Hillcroft Street in the heart of Houston's diverse Mahatma Gandhi District, Bombay Sweets stands as a beacon for lovers of authentic Indian cuisine. This unassuming establishment has been serving up traditional sweets and snacks that transport diners straight to the bustling streets of Mumbai and Chennai.\n\nThe moment you step inside, your senses are greeted by the intoxicating aromas of freshly prepared sweets and the sizzle of savory snacks. The display cases overflow with an impressive array of mithai, from creamy barfi to syrup-soaked gulab jamun.\n\nBut Bombay Sweets is far more than just a confectionery. Their chaat counter is legendary among Houston's Indian food enthusiasts. The pani puri arrives with perfectly crisp shells ready to be filled with tangy tamarind water.\n\nFor those seeking something more substantial, the dosa station delivers beautifully golden, paper-thin crepes that crack satisfyingly with each bite.\n\nWith prices firmly in the budget-friendly range, you can sample a wide variety of dishes without breaking the bank.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Sweets", "Chaat", "Houston"]
+    },
+    {
+      "id": "15",
+      "restaurantId": "15",
+      "title": "Maharaja Bhog: A Royal Feast of Unlimited Gujarati-Rajasthani Thali in Houston",
+      "slug": "maharaja-bhog-houston",
+      "excerpt": "Experience the grandeur of traditional Indian dining at Maharaja Bhog, where unlimited thali service meets authentic Gujarati and Rajasthani flavors. This Houston gem on Westheimer Road delivers a royal feast that will transport your taste buds straight to the heart of India.",
+      "content": "There are meals, and then there are experiences. Maharaja Bhog, nestled on the bustling Westheimer Road in Houston, firmly belongs in the latter category. This beloved establishment has mastered the art of the traditional thali, offering diners an authentic journey through the rich culinary landscapes of Gujarat and Rajasthan.\n\nThe concept is beautifully simple yet magnificently executed: unlimited thali dining. For those unfamiliar, a thali is a round platter featuring an array of small bowls, each containing a different dish. At Maharaja Bhog, this translates to a rotating parade of flavors.\n\nWhat sets Maharaja Bhog apart is their unwavering commitment to authenticity. The recipes here are faithful reproductions of dishes that have been perfected over generations.\n\nThe dining experience itself feels ceremonial. Servers glide between tables, offering refills of dal, sabzi, rotis, and rice with practiced grace.\n\nAt a moderate price point, Maharaja Bhog delivers exceptional value. The 4.2 rating from fellow diners speaks to the consistent quality and warm hospitality.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Indian", "Gujarati", "Rajasthani", "Thali"]
+    },
+    {
+      "id": "16",
+      "restaurantId": "16",
+      "title": "Curry & Kabab: Where Authentic Pakistani-Indian Flavors Meet Houston Hospitality",
+      "slug": "curry-and-kabab-houston",
+      "excerpt": "Nestled in the heart of Houston's vibrant Chinatown district, Curry & Kabab delivers an unforgettable journey through Pakistani and Indian cuisine. From aromatic biryanis to perfectly charred kebabs, this Bellaire gem has earned its stellar reputation among Houston's diverse food lovers.",
+      "content": "Houston's Bellaire Boulevard is renowned for its incredible diversity of Asian cuisines, but tucked among the Chinese restaurants and Vietnamese pho houses lies a Pakistani-Indian treasure that demands your attention. Curry & Kabab at 9889 Bellaire Blvd has been quietly building a devoted following.\n\nThe moment you step inside, the intoxicating aroma of spices tells you that you're in for something special. This is not your typical Americanized Indian restaurant. Curry & Kabab specializes in Pakistani cuisine, which means bolder spices and heartier meat preparations.\n\nThe biryani here is nothing short of extraordinary. Each grain of basmati rice is infused with saffron and a complex blend of spices, layered with tender meat.\n\nBut it's the kebabs that truly showcase the kitchen's expertise. The seekh kebabs arrive sizzling, their char-grilled exterior giving way to impossibly juicy, spiced meat within.\n\nAt a moderate price point that won't break the bank, Curry & Kabab offers exceptional value with its 4.0 rating.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Pakistani", "Kebabs", "Biryani", "Houston"]
+    },
+    {
+      "id": "17",
+      "restaurantId": "17",
+      "title": "Himalaya Restaurant Southwest: Authentic Pakistani and South Indian Flavors at Unbeatable Prices",
+      "slug": "himalaya-southwest-houston",
+      "excerpt": "Discover the culinary treasures of Himalaya Restaurant Southwest, where aromatic biryanis and sizzling karahis have made this Houston gem a beloved destination for authentic Pakistani and South Indian cuisine. With wallet-friendly prices and generous portions, this Southwest location delivers big flavors.",
+      "content": "Houston's Southwest corridor has become a haven for lovers of authentic subcontinental cuisine, and Himalaya Restaurant Southwest stands as a shining example of why. Located at 10900 Southwest Fwy, this bustling eatery brings the rich culinary traditions of Pakistan and South India to the heart of Texas.\n\nThe moment you step inside, the intoxicating aroma of slow-cooked spices and freshly baked naan tells you that you're in for something special. Himalaya's kitchen takes no shortcuts, preparing each dish with time-honored techniques.\n\nThe biryani here is nothing short of legendary. Each grain of basmati rice is perfectly separate, infused with saffron and a complex blend of whole spices that create layers of flavor with every bite.\n\nEqually impressive is the karahi, Himalaya's other signature offering. Served in the traditional wok-like vessel, this dish features meat cooked with tomatoes, ginger, garlic, and green chilies.\n\nWhat makes Himalaya Southwest particularly appealing is its commitment to value. With a 4.1 rating and budget-friendly prices, this is authentic cuisine that doesn't demand a special occasion.",
+      "author": "Food Explorer",
+      "publishedAt": "2026-01-02",
+      "tags": ["Pakistani", "Halal", "Southwest", "Houston"]
+    }
+  ]
+}
